@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="web">
+    <output-path>$PROJECT_DIR$/out/artifacts/kafka/</output-path>
+    <root id="archive" name="test.jar">
+      <element id="module-output" name="test" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/jars/spark-assembly-1.6.0-hadoop2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../software/scala-2.10.4/lib/scala-actors-migration.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../software/scala-2.10.4/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../software/scala-2.10.4/lib/scala-actors.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../software/scala-2.10.4/lib/scala-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../software/scala-2.10.4/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/jars/mysql-connector-java-5.0.8-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/spark_with_hive/datanucleus-api-jdo-3.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/spark_with_hive/datanucleus-core-3.2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/spark_with_hive/datanucleus-rdbms-3.2.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/spark_streaming/kafka-clients-0.10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/spark_streaming/kafka_2.10-0.10.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/spark_streaming/spark-streaming-kafka-assembly_2.10-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/spark_streaming/spark-streaming-kafka_2.10-1.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

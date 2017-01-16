@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spark_with_hive">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jars/spark_with_hive/datanucleus-api-jdo-3.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jars/spark_with_hive/datanucleus-core-3.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jars/spark_with_hive/datanucleus-rdbms-3.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
